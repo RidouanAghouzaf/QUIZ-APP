@@ -1,0 +1,123 @@
+{
+    "informatique":[
+        {
+            "question":"Rolex is a company that specializes in what type of product?",
+            "answers":{"a": "Bags", "b": "Watches", "c":"Shoes","d": "laptops"},
+             "correctAnswer":"c"
+           
+        },
+        {
+            "question":"when did Facbook launch?",
+            "answers":{"a": 2005, "b": 2008, "c":2003,"d": 2004},
+            "correctAnswer":"d"
+        },
+       
+        {
+            "question":"What amount of bits commonly equals one byte?",
+            "answers":{"a": 1, "b": "2", "c":64,"d": 8},
+            "correctAnswer":"b"
+        },
+        {
+        "question":"HTML is what type of language?",
+        "answers":{ 
+        "a":"Markup Language",
+        "b": "Macro Language",
+        "c":"Programming Language",
+        "d":"Scripting Language"
+    },
+        "correctAnswer":"a"
+        }
+        
+    ],
+    "sport":[
+        {
+            "question":"Tell us about your hobby. (Gymnastics is not included) ?",
+            "answers":{"a": "Gymming", "b": "Dancing", "c":"football","d": "Reading"},
+             "correctAnswer":"c"
+           
+        },
+        {
+            "question":"What is the hardest skill on bars you can do?",
+            "answers":{"a": "Swing", "b": "swing", "c":"kip","d": "giant"},
+            "correctAnswer":"d"
+        },
+       
+        {
+            "question":"What is the hardest skill on bars you can do??",
+            "answers":{"a": "walk", "b": "layout", "c":"handstand","d": "Round-off"},
+            "correctAnswer":"b"
+        },
+        {
+        "question":"How many pushups can you do in one minute?",
+        "answers":{ 
+        "a":"5-10",
+        "b": "15-25",
+        "c":"25-30",
+        "d":"30-40"
+    },
+        "correctAnswer":"a"
+        }
+        
+    ],
+    "art":[
+        {
+            "question":"The amount of light or darkness on a photograph is known as the: ?",
+            "answers":{"a": "Exposure", "b": "Shutter Speed", "c":"Contrast","d": "Sharpness"},
+             "correctAnswer":"c"
+           
+        },
+        {
+            "question":"In a gig setting (ie, low light), the ISO should be set......?",
+            "answers":{"a": "The highest setting there is on that particular camera", "b": "The lowest setting there is on that particular camera", "c":"Between 400 and 1600, depending on the camera","d": "About f/2.8"},
+            "correctAnswer":"d"
+        },
+       
+        {
+            "question":"The amount of light passing through a lens is defined by the:",
+            "answers":{"a": 1, "b": "2", "c":64,"d": 8},
+            "correctAnswer":"b"
+        },
+        {
+        "question":"HTML is what type of language?",
+        "answers":{ 
+        "a":"Shutter speed",
+        "b": "Aperture",
+        "c":"Film speed",
+        "d":"Exposure"
+    },
+        "correctAnswer":"a"
+        }
+        
+    ],
+    "mathematics":[
+        {
+            "question":"Question 1. What is three fifth of 100? ?",
+            "answers":{"a": "3", "b": "5", "c":"20","d": "60"},
+             "correctAnswer":"d"
+           
+        },
+        {
+            "question":" I am a number. I have 7 in the ones place. I am less than 80 but greater than 70. What is my number??",
+            "answers":{"a": 71, "b": 73, "c":75,"d": 79},
+            "correctAnswer":"c"
+        },
+       
+        {
+            "question":" How many years are there in a decade??",
+            "answers":{"a": 5, "b": "10", "c":15,"d": 20},
+            "correctAnswer":"b"
+        },
+        {
+        "question":"What is the value of x if x2 = 169?",
+        "answers":{ 
+        "a":1,
+        "b": 13,
+        "c":169,
+        "d":338
+    },
+        "correctAnswer":"d"
+        }
+        
+    ]
+
+}

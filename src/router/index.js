@@ -1,33 +1,34 @@
 import {createRouter,createWebHistory} from 'vue-router'
 
-import Home from '../components/pages/Home.vue'
- import Score from '../components/pages/Score.vue'
-import Settings from '../components/pages/Settings.vue'
-import Topics from '../components/pages/Topics.vue'
- import Quiz from '../components/pages/Quiz.vue'
+import Account from '../components/pages/Account.vue'
+ import Managementquiz from '../components/pages/Managementquiz.vue'
+import Weight from '../components/pages/Weight.vue'
+import About from '../components/pages/About.vue'
+import Quiz from '../components/pages/Quiz.vue'
 
 
 
 const routes = [
     {
         path:'/',
-        component: Home
+        component: Account
     },
     {
-    path: '/Score',
-    component: Score
+    path: '/Managementquiz',
+    component: Managementquiz
     },
     {
-    path: '/Settings',
-    component: Settings
+    path: '/Weight',
+    component: Weight
     },
     {
-    path:'/Quiz',
+    path:'/quiz/:category',
+    name:'QuizElement',
     component: Quiz
     },
     {
-    path:'/Topics',
-    component: Topics
+    path:'/About',
+    component: About
     }
 
 ]
